@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687435259676",
+    "project_id": "bikeordersystem-32588",
+    "storage_bucket": "bikeordersystem-32588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687435259676:android:ca27ed5e87a437e28664d9",
+        "android_client_info": {
+          "package_name": "com.example.bike_order_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvuXN-Toxrstvn2bi1RQnEqhMXK-PBU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
